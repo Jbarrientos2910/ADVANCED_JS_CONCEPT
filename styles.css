@@ -1,0 +1,7 @@
+body{ background-color: beige;}
+
+#orden{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
